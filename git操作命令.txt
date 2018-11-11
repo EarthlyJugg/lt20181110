@@ -1,0 +1,140 @@
+1. git init 把这个目录变成git可以管理的仓库（某个文件夹下）
+2. git add readme.txt  （git add 文件名带后缀）把文件添加到暂存区里面
+3. git commit -m "这里可以写备注"   把文件提交到仓库
+4. git status  用来查看是否还有文件未提交
+5. git log  查看历史提交记录
+6. git log –pretty=oneline 也是查看历史提交记录，只是过滤一些信息
+
+---------版本回退---------
+7. git reset  --hard HEAD^  回退到上一个版本HEAD^^ 则是回退连个版本,如果是回退100个版本则使用 git reset  --hard HEAD~100
+8. cat readme.txt  是查看readme.txt文本内容
+9. git reflog 获取到版本号，包括上次回退的版本
+10. git reset  --hard 版本号  回退到指定的版本号
+
+---------撤销修改---------
+11. git checkout --readme.txt 这里有两种行为
+	1、readme.txt文件还没有放到暂存区，使用 撤销修改就回到和版本库一模一样的状态。
+	2、另外一种是readme.txt已经放入暂存区了，接着又作了修改，撤销修改就回到添加暂存区后的状态
+	
+---------删除文件--------
+12. rm b.txt 删除b.txt 文件，如果想彻底删除文件可以使用提交命令 （第3条）
+13. git checkout  -- b.txt  只要没有commit之前，则可以使用这个命令恢复删除的文件（和第11一样）
+
+
+-------提交到git远程库，两步-------
+14. git remote add origin https://github.com/tugenhua0707/testgit.git    
+15. git push -u origin master  把master分支推送上去  
+		由于远程库是空的，我们第一次推送master分支时，加上了 –u参数，Git不但会把本地的master分支内容推送的远程新的master分支，
+		还会把本地的master分支和远程的master分支关联起来，在以后的推送或者拉取时就可以简化命令。
+16. git push origin master  从现在起，只要本地作了提交，就可以通过这个命令	
+
+-------远程库克隆----------	
+17. git clone https://github.com/tugenhua0707/testgit.git  从github 中克隆项目到本地中
+
+-----------创建与合并分支----------------
+  前提：在版本回填退里，你已经知道，每次提交，Git都把它们串成一条时间线，
+  这条时间线就是一个分支。截止到目前，只有一条时间线，在Git里，这个分支叫主分支，
+  即master分支。HEAD严格来说不是指向提交，而是指向master，master才是指向提交的，
+  所以，HEAD指向的就是当前分支。
+
+18. git checkout -b dev 创建分支dev ，git checkout 命令加上 –b参数表示创建并切换，相当于如下2条命令
+		git branch dev
+		git checkout dev
+		
+19. git branch  查看当前分支
+20. git checkout dev  连接到dev 分支
+21. git merge dev 合并dev分支
+22. git branch -d dev 删除dev 分支
+23. git merge --no-ff -m "merge with no-ff" dev  合并dev分支,-no-ff表示禁用fast forward
+	分支策略：首先master主分支应该是非常稳定的，也就是用来发布新版本，一般情况下不允许在上面干活，
+	干活一般情况下在新建的dev分支上干活，干完后，比如上要发布，或者说dev分支代码稳定后可以合并到主分支master上来。
+	
+
+	
+-----------多人协作工作模式一般是这样的-------------
+
+首先，可以试图用git push origin branch-name推送自己的修改.
+如果推送失败，则因为远程分支比你的本地更新早，需要先用git pull试图合并。
+如果合并有冲突，则需要解决冲突，并在本地提交。再用git push origin branch-name推送。
+　　Git基本常用命令如下：
+
+　　mkdir：         XX (创建一个空目录 XX指目录名)
+
+　　pwd：          显示当前目录的路径。
+
+　　git init          把当前的目录变成可以管理的git仓库，生成隐藏.git文件。
+
+　　git add XX       把xx文件添加到暂存区去。
+
+　　git commit –m “XX”  提交文件 –m 后面的是注释。
+
+　　git status        查看仓库状态
+
+　　git diff  XX      查看XX文件修改了那些内容
+
+　　git log          查看历史记录
+
+　　git reset  --hard HEAD^ 或者 git reset  --hard HEAD~ 回退到上一个版本
+
+　　(如果想回退到100个版本，使用git reset –hard HEAD~100 )
+
+　　cat XX         查看XX文件内容
+
+　　git reflog       查看历史记录的版本号id
+
+　　git checkout -- XX  把XX文件在工作区的修改全部撤销。
+
+　　git rm XX          删除XX文件
+
+　　git remote add origin https://github.com/tugenhua0707/testgit 关联一个远程库
+
+　　git push –u(第一次要用-u 以后不需要) origin master 把当前master分支推送到远程库
+
+　　git clone https://github.com/tugenhua0707/testgit  从远程库中克隆
+
+　　git checkout –b dev  创建dev分支 并切换到dev分支上
+
+　　git branch  查看当前所有的分支
+
+　　git checkout master 切换回master分支
+
+　　git merge dev    在当前的分支上合并dev分支
+
+　　git branch –d dev 删除dev分支
+
+　　git branch name  创建分支
+
+　　git stash 把当前的工作隐藏起来 等以后恢复现场后继续工作
+
+　　git stash list 查看所有被隐藏的文件列表
+
+　　git stash apply 恢复被隐藏的文件，但是内容不删除
+
+　　git stash drop 删除文件
+
+　　git stash pop 恢复文件的同时 也删除文件
+
+　　git remote 查看远程库的信息
+
+　　git remote –v 查看远程库的详细信息
+
+　　git push origin master  Git会把master分支推送到远程库对应的远程分支上
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
