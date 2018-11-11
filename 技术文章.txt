@@ -1,0 +1,171 @@
+https://www.jianshu.com/p/69bfbda302df	Android插件化系列第（一）篇---Hook技术之Activity的启动过程拦截
+https://www.jianshu.com/p/c0ec2a7fc26a	Android进阶之旅与你同行
+https://www.jianshu.com/p/e544b7a76dac	你应该知道的HTTP基础知识
+http://blog.csdn.net/leixiaohua1020/article/details/47008825	最简单的基于FFmpeg的移动端例子：Android HelloWorld
+https://www.jianshu.com/p/d1c6e67f7889	Android插件化系列第（二）篇---动态加载技术之apk换肤
+http://www.cnblogs.com/absfree/p/5366545.html	一起写一个Android图片加载框架 
+http://blog.csdn.net/Luoshengyang/article/list/10	老罗的Android之旅
+http://blog.csdn.net/qq_23547831/article/list/2		一片枫叶的专栏
+https://www.jianshu.com/u/019f1cbb16e2	怪盗kidou
+https://www.jianshu.com/p/7d658636764a	Android自由开发者 通过Jsoup抓取网页数据
+https://www.cnblogs.com/chengxiao/p/6059914.html	HashMap实现原理及源码分析 
+http://blog.csdn.net/sac761/article/details/48379173	android 开发--抓取网页解析网页内容的若干方法(网络爬虫)（正则表达式）
+https://www.cnblogs.com/syp172654682/p/7689328.html		深入浅出Git教程（转载） 	
+https://www.jianshu.com/p/87bff5cc8d8c	深入分析java线程池的实现原理
+http://ifeve.com/producers-and-consumers-mode/	聊聊并发（十）生产者消费者模式
+https://www.jianshu.com/u/c50b715ccaeb	Season_zlc简书
+http://www.cnblogs.com/whoislcj/p/5595714.html	Android消息传递之EventBus 3.0使用详解
+http://gityuan.com/android/	Android系统开篇
+http://gityuan.com/2016/04/24/how-to-study-android/		如何自学Android
+http://blog.csdn.net/guolin_blog	郭霖的专栏 
+http://blog.csdn.net/lmj623565791/article/details/51148825	Android 快速发布开源项目到jcenter 
+http://blog.csdn.net/jiangwei0910410003/article/details/53045634		Android"挂逼"修炼之行---微信实现本地视频发布到朋友圈功能 
+https://github.com/huanglizhuo/kotlin-in-chinese		huanglizhuo/kotlin-in-chinese 
+http://blog.csdn.net/qq_27512671/article/details/53056882		Android如何让你的第三方库可以compile的形式被使用
+https://www.yiibai.com/kotlin/basic-syntax.html		Kotlin基础语法
+http://blog.csdn.net/harvic880925		启舰
+http://blog.csdn.net/lmj623565791/	Hongyang 
+https://www.jianshu.com/u/90ab66c248e6		占小狼  
+https://blog.piasy.com/		Piasy
+http://gityuan.com/page2/		Gityuan
+https://www.jianshu.com/u/35167a70aa39		依然范特稀西 
+http://blog.csdn.net/qq_31715429	猴菇同学的博客	
+http://www.myexception.cn/android/1848077.html		Android开发-利用Matrix开展图片操作
+http://blog.csdn.net/itachi85/article/details/51190687		Android网络编程（六）OkHttp3用法全解析 
+http://blog.csdn.net/t12x3456/article/category/1648991		Android 颜色渲染
+http://blog.csdn.net/chenyq2008/article/details/45830831		Android 键盘监控的实现原理及过程
+http://blog.csdn.net/mad1989/article/details/38109689		Android通过代码模拟物理、屏幕点击事件
+http://www.jb51.net/article/34178.htm		Android变形(Transform)之Camera使用介绍
+http://www.360doc.com/content/11/1215/11/7635_172396706.shtml		http://www.360doc.com/content/11/1215/11/7635_172396706.shtml
+https://www.2cto.com/kf/201502/375565.html		WebView组件学习以及WebViewClient 的方法解释
+http://www.open-open.com/lib/view/open1453351019198.html		Android Scroller完全解析，关于Scroller你所需知道的一切
+http://blog.csdn.net/xiaoyuan511/article/details/50862548		AndroidEmoji表情开发。两端使同一套的图片，
+http://blog.csdn.net/mergerly/article/details/17579567		Android应用程序永久获取root权限方法	
+http://blog.csdn.net/yao_guet/article/details/6442416		Android中am命令用法
+http://blog.csdn.net/qinjuning/article/details/6978560		Android中获取系统内存信息以及进程信息-----ActivityManager的使用(一)
+https://www.evernote.com/shard/s37/sh/2e3d691a-0776-4585-a951-4589bf24c8b5/bcf8421c2ba09389959706b19e9de2da  	Android平台下实现一个进程管理器
+http://www.cnblogs.com/Fndroid/default.html?page=2		Fndroid	
+http://www.cnblogs.com/tgyf/p/4851092.html		分享一种截屏方法
+http://blog.csdn.net/column/details/android110.html  Android 精彩案例
+http://blog.csdn.net/tkwxty/article/details/42062467		android下jni开发
+http://blog.csdn.net/centralperk/article/details/7766925		Android平台上如何让应用程序获得系统权限以及如何使用platform密钥给apk签名
+http://blog.csdn.net/jingwen3699/article/details/8024900	Android中应用程序如何获得系统签名权限
+http://blog.csdn.net/dahuaishu2010_/article/details/28622417		Android bitmap图片处理
+http://zy.anjian.com/index.php?action-viewnews-itemid-161		按键精灵介绍	
+http://blog.csdn.net/superkris/article/details/7709504/		Android系统权限和root权限
+http://so.csdn.net/so/search/s.do?q=%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84		算法与数据结构
+https://www.jianshu.com/p/4cd8c109cdfb		你真的理解AccessibilityService吗
+http://blog.csdn.net/jwzhangjie/article/details/47205299	 使用AccessibilityService实现微信自动抢红包
+https://www.jianshu.com/p/cd1cd53909d7#		Android：辅助功能之自动抢红包
+http://www.runoob.com/cprogramming/c-intro.html		菜鸟教程
+http://blog.csdn.net/zhou452840622/article/details/51737093		android-AccessibilityEvent
+https://developer.xamarin.com/api/member/Android.Views.Accessibility.AccessibilityNodeInfo.FindAccessibilityNodeInfosByViewId/p/System.String/   好东西
+https://mp.weixin.qq.com/s?__biz=MzI1MjY5NTI1OQ==&mid=2247483802&idx=1&sn=4dd91fcb3e6ba54d85e3a1ac68a99b2b&chksm=e9de862edea90f382022d4fb944874998db061dde6d105c5046a35cc813f02e842130e96a6dc&mpshare=1&scene=23&srcid=0517kJZ0n6q3LpqYwvRM5qEK#rd    那些年收藏的Android开源库集合(工具) 
+http://blog.csdn.net/self_study/article/details/50186435			android permission权限与安全机制解析（下）
+http://blog.csdn.net/uana_777/article/details/51211535		Android 6.0 动态权限申请注意事项
+http://blog.csdn.net/zhufuing/article/details/18964725/		Android App监听软键盘按键的三种方式
+http://blog.csdn.net/carter_yu/article/details/50970007		如何学习Android系统源码	
+http://blog.csdn.net/mexican_ok/article/details/8692245		Android中后台定时任务实现,即时数据同步问题思考
+http://blog.csdn.net/androidsecurity/article/details/39003193		launchAnyWhere: Activity组件权限绕过漏洞解析(Google Bug 7699048 )
+http://www.th7.cn/Program/Android/201704/1152902.shtml		Android插件化架构 - 拦截Activity的启动流程绕过AndroidManifest检测
+http://blog.csdn.net/dabaoonline/article/details/51518832		Android调用系统分享直接抵达微信
+http://blog.csdn.net/carson_ho		Carson_Ho的博客
+http://blog.csdn.net/shenzhennba/article/details/8213294		Java中剪切板的操作
+http://blog.csdn.net/zml_2015/article/details/50971608		json中包含Unicode转码问题 
+http://blog.csdn.net/lmj623565791/article/details/47911083		Android OkHttp完全解析 是时候来了解OkHttp了 
+http://blog.csdn.net/jdsjlzx/article/details/52144870		Android之Keystore文件签名（获取查看apk签名） 
+http://blog.csdn.net/fancylovejava/article/details/45787729/		Android酷炫实用的开源框架（UI框架） 
+http://blog.csdn.net/buptgshengod		李博Garvin的专栏 	
+http://blog.csdn.net/xiaoyu940601/article/details/54406725		Androiｄ笔记：Android 7.0 FileUriExposedException 解决
+Androiｄ笔记：Android 7.0 FileUriExposedException 解决		android状态栏一体化(沉浸式状态栏) 	
+http://blog.csdn.net/beyond702/article/details/69258932		Android shell获取和模拟点击事件
+http://blog.csdn.net/myarrow/article/details/8235306	Android系统权限和root权限
+http://blog.csdn.net/qq122627018/article/details/53351781		Webview加载本地图片的方案对比
+http://www.cnblogs.com/travellife/p/Android-jian-tie-ban-xiang-jie.html		Android 剪贴板详解 
+http://www.androiddevtools.cn/		AndroidDevTools
+http://blog.csdn.net/conowen/article/details/7521340		Android的NDK开发(1)————Android JNI简介与调用流程
+http://blog.sina.com.cn/s/blog_13a47448f0102wdu7.html		Android自动化测试之Monkeyrunner学习笔记(一)
+http://blog.csdn.net/qq_32452623/article/details/54351364		Android-安全-签名验证让二次打包变的更难 
+http://blog.csdn.net/u014310722/article/details/50563636		Android利用AccessibilityService实现自动装总结(二）	
+http://hold-on.iteye.com/blog/1901152		Android应用程序永久获取root权限方法 
+http://blog.csdn.net/chaihuasong/article/details/8463212/		Android 获取ROOT权限原理解析
+http://blog.csdn.net/xudongdong99/article/details/8857173		android模拟按键问题总结[使用IWindowManager.injectKeyEvent方法]http://blog.csdn.net/jzj1993/article/details/39158865		安卓使用Root权限实现后台模拟全局按键、触屏事件方法（类似按键精灵）
+http://163liufuliang.blog.163.com/blog/static/331651862013119114431760/		Android中使用隐藏API(大量图解)??
+http://blog.csdn.net/chenliguan/article/details/48752021		android进阶之监听回调实现
+http://blog.csdn.net/sunnyjerry/article/details/54091345		Android数据库表升级(添加列)，并保留原表中的数据---以后有其他升级操作将会更新该文
+http://www.apkbus.com/thread-130756-1-1.html    android 将自己的应用改为系统应用 [复制链接] 
+http://blog.csdn.net/xx326664162/article/details/53406933		Android 将自己的应用改为系统应用 
+http://xposed.appkg.com/category/modules		Xposed框架模块 – WechatLuckyMoney（微信抢红包），适配微信6.6.5
+http://blog.csdn.net/venusic/article/details/52121254		Android Studio NDK 入门教程（1）--来自C 语言的String
+http://blog.csdn.net/qq_18870023/article/details/51753587		Android逆向分析之Xposed的hook技术	
+http://blog.csdn.net/u012417380/article/details/55254369?locationNum=13&fps=1		Xposed的框架的使用
+http://blog.csdn.net/qq_24280381/article/details/70197069		Xposed框架开发入门（三）--Android某输入法用户个人词库提取
+http://sorcerer.farbox.com/post/android/xposedkai-fa-zhi-nan		Xposed开发指南 
+http://blog.csdn.net/codepython/article/details/46894371	Android动态加载代码技术
+http://blog.csdn.net/zhangmiaoping23/article/details/54891457		（译）Xposed-替换资源
+http://blog.csdn.net/lib739449500/article/details/45563775		Android下拉刷新上拉加载控件，对所有View通用！ 
+http://blog.csdn.net/anyfive/article/details/53036125		android 打造真正的下拉刷新上拉加载recyclerview(三)：下拉刷新上拉加载http://blog.csdn.net/zhufuronglovewenzhen/article/details/46627859   android中的/system/bin/input工具，input keyevent+key_...https://www.jianshu.com/p/434911cd8732		Android——如何制作自己的开源项目	
+http://blog.csdn.net/lmj623565791/article/details/45059587			Android RecyclerView 使用完全解析 体验艺术般的控件 
+http://blog.csdn.net/lmj623565791/article/details/23692439		Andoird 自定义ViewGroup实现竖向引导界面 
+http://blog.csdn.net/column/details/code-design.html		设计模式融入生活
+https://www.ibm.com/developerworks/cn/java/j-dyn0429/index.html		Java 编程的动态性，第 1 部分
+http://blog.csdn.net/mousebaby808/article/details/37696371		Javassist简单应用小结	
+http://blog.csdn.net/wizardforcel		wizardforcel的专栏 
+http://blog.csdn.net/pangpang123654/article/details/52957362		android逆向分析之从smali到java http://www.runoob.com/w3cnote/android-tutorial-customer-baseadapter.html   构建一个可复用的自定义BaseAdapter
+http://blog.chinaunix.net/uid-26997997-id-3350449.html		Android adb shell启动应用程序的方法 
+http://blog.csdn.net/shaoyezhangliwei/article/details/50427194		android 实现 搜索保存历史记录功能 
+http://blog.csdn.net/qq_24280381/article/details/68506075		Xposed框架开发入门（一）
+http://www.jb51.net/article/60282.htm		使用adb命令向Android模拟器中导入通讯录联系人的方法
+http://blog.csdn.net/bsmmaoshenbo/article/details/52701993		用Xposed框架抓取微信朋友圈数据 
+http://blog.csdn.net/zhangmiaoping23/article/list/6		zhangmiaoping23的专栏
+http://blog.csdn.net/u011240877/article/details/78348578Java 常用工具类 Collections 源码分析 
+http://gank.io/post/560e15be2dca930e00da1083		给 Android 开发者的 RxJava 详解https://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661971&idx=1&sn=3fb69537bbc5fbb14d152ba6381c3b83		给 Android 初学者的 Gradle 知识普及 
+https://github.com/5A59/MockNet			搭建本地服务
+https://www.jianshu.com/p/e00916d2f1cc	Android 开发者该如何进阶？
+https://www.jianshu.com/p/97be3137741c		面试总结 | 记一次Android 面试	
+http://blog.csdn.net/cym_lmy/article/details/24704089  android 中处理崩溃异常并重启程序
+http://blog.csdn.net/cherenbiao/article/details/50735612			Android添加系统service 
+https://www.jianshu.com/p/308f3c54abdd		你真的会用Retrofit2吗?Retrofit2完全教程
+https://www.jianshu.com/p/cc9ae05423a8		tess_two Android图片文字识别
+https://www.zhihu.com/question/32037895		Android 开发有哪些新技术出现？
+http://blog.csdn.net/eclipsexys/article/details/53560013		AccessibilityService从入门到出轨 
+http://blog.csdn.net/goskalrie/article/details/52458773  java代理模式
+http://blog.csdn.net/xiangzhihong8/article/details/79578964   Android最新xpose开发
+http://blog.csdn.net/niubitianping/article/list/2		Rxjava新教程
+
+http://blog.csdn.net/huangqili1314/article/details/72792682  Android最新面试题
+https://developer.android.google.cn/studio/profile/memory-profiler   内存泄漏分析
+
+https://www.jianshu.com/p/61114dd5b239  git操作
+
+
+https://www.cnblogs.com/Kubility123/articles/5657999.html  svn教程
+http://blog.csdn.net/free_wind22/article/details/50967723  git教程
+
+SHA256:08z1CBATeMbMR3B0/kR2AN44hghCjc1jxKKJJk0JLHI 771548229@qq.com
+
+
+打包签名密钥yichankey.jks
+Key store password:yichan123
+Key alias:yichankey
+Key password:yichan123
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

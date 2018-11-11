@@ -1,0 +1,91 @@
+https://blog.csdn.net/coderinchina/article/details/53665632   android PathMeasure类 详细介绍
+
+https://blog.csdn.net/fanxudonggreat/article/details/78888267   程序设计六大原则
+
+https://blog.csdn.net/ss1168805219/article/details/72621854    Android Studio：依赖包的版本号
+
+http://mirrors.163.com/   欢迎访问网易开源镜像站
+
+https://blog.csdn.net/xelloq/article/details/62222316  Markdown工具：Typora
+
+http://www.runoob.com/w3cnote/sort-algorithm-summary.html   排序算法总结
+
+https://www.cnblogs.com/onepixel/articles/7674659.html   十大经典排序算法（动图演示） 
+
+https://blog.csdn.net/moxiaopeng/article/details/38045701   C语言反转单链表
+
+https://www.jianshu.com/p/73216939806a     Android 手把手教你使用Retrofit2
+
+https://www.jianshu.com/p/d20ce971e229    Android中的数据结构解析（一）ArrayList、LinkedList、Vector
+
+https://blog.csdn.net/abren32/article/details/56669369   Android的数据结构与算法----ArrayList源码解析
+
+https://blog.csdn.net/jinfulin/article/details/52622055   android wifi连接打印机并获取打印机状态
+
+https://blog.csdn.net/qq_25143591/article/details/53469057    Android wifi打开关闭以及状态监听
+
+https://blog.csdn.net/yehui928186846/article/details/52710112   android bluetooth——蓝牙的开启、搜索、配对与连接
+
+https://blog.csdn.net/hnnd123/article/details/52887177    自定义布局实现左右或者上下翻页效果（借助Scroller类）
+
+https://blog.csdn.net/u010597493/article/details/55095430   android studio上传代码到coding
+
+https://blog.csdn.net/yanzhenjie1003/article/details/52115566   RecyclerView侧滑菜单，滑动删除，长按拖拽，下拉刷新上拉加载
+
+https://blog.csdn.net/zhangphil/article/list/18?t=1  蓝牙开发
+
+https://blog.csdn.net/VNanyesheshou/article/details/51554852   Android 蓝牙开发（一）蓝牙通信
+
+https://www.jianshu.com/p/ec0cdcd62595   Android蓝牙打印机，带你真正了解各种打印格式
+
+https://www.cnblogs.com/yy2012/p/7154467.html  android 连接蓝牙打印机 BluetoothAdapter 
+
+https://blog.csdn.net/xelloq/article/details/62222316   Markdown工具：Typora
+
+https://www.zhihu.com/question/37290469/answer/107612456   区块链是什么，如何简单易懂地介绍区块链？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
